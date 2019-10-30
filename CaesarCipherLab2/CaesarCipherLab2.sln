@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipherLab2", "CaesarCipherLab2\CaesarCipherLab2.csproj", "{A81A3390-2356-4F90-845E-3F633CD19EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81A3390-2356-4F90-845E-3F633CD19EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81A3390-2356-4F90-845E-3F633CD19EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81A3390-2356-4F90-845E-3F633CD19EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81A3390-2356-4F90-845E-3F633CD19EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
