@@ -1,0 +1,6 @@
+c:\users\dell 5420\documents\visual studio 2013\Projects\ColumnarTranspositionCipher\ColumnarTranspositionCipher\bin\Debug\ColumnarTranspositionCipher.exe.config
+c:\users\dell 5420\documents\visual studio 2013\Projects\ColumnarTranspositionCipher\ColumnarTranspositionCipher\bin\Debug\ColumnarTranspositionCipher.exe
+c:\users\dell 5420\documents\visual studio 2013\Projects\ColumnarTranspositionCipher\ColumnarTranspositionCipher\bin\Debug\ColumnarTranspositionCipher.pdb
+c:\users\dell 5420\documents\visual studio 2013\Projects\ColumnarTranspositionCipher\ColumnarTranspositionCipher\obj\Debug\ColumnarTranspositionCipher.csprojResolveAssemblyReference.cache
+c:\users\dell 5420\documents\visual studio 2013\Projects\ColumnarTranspositionCipher\ColumnarTranspositionCipher\obj\Debug\ColumnarTranspositionCipher.exe
+c:\users\dell 5420\documents\visual studio 2013\Projects\ColumnarTranspositionCipher\ColumnarTranspositionCipher\obj\Debug\ColumnarTranspositionCipher.pdb
