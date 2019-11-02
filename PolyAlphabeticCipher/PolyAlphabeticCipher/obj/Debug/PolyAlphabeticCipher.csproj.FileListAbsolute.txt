@@ -4,3 +4,6 @@ c:\users\dj\documents\visual studio 2013\Projects\PolyAlphabeticCipher\PolyAlpha
 c:\users\dj\documents\visual studio 2013\Projects\PolyAlphabeticCipher\PolyAlphabeticCipher\obj\Debug\PolyAlphabeticCipher.csprojResolveAssemblyReference.cache
 c:\users\dj\documents\visual studio 2013\Projects\PolyAlphabeticCipher\PolyAlphabeticCipher\obj\Debug\PolyAlphabeticCipher.exe
 c:\users\dj\documents\visual studio 2013\Projects\PolyAlphabeticCipher\PolyAlphabeticCipher\obj\Debug\PolyAlphabeticCipher.pdb
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PolyAlphabeticCipher\PolyAlphabeticCipher\bin\Debug\PolyAlphabeticCipher.exe.config
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PolyAlphabeticCipher\PolyAlphabeticCipher\obj\Debug\PolyAlphabeticCipher.exe
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PolyAlphabeticCipher\PolyAlphabeticCipher\obj\Debug\PolyAlphabeticCipher.pdb

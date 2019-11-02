@@ -1,0 +1,13 @@
+c:\users\dj\documents\visual studio 2013\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe.config
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe.config
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.pdb
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csprojResolveAssemblyReference.cache
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.exe
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\CipherAlgorithms\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.pdb
+C:\Users\dell 5420\Documents\Visual Studio 2013\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe.config
+C:\Users\dell 5420\Documents\Visual Studio 2013\Projects\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.exe
+C:\Users\dell 5420\Documents\Visual Studio 2013\Projects\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.pdb
+C:\Users\dell 5420\Documents\Visual Studio 2013\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe
+C:\Users\dell 5420\Documents\Visual Studio 2013\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.pdb
+C:\Users\dell 5420\Documents\Visual Studio 2013\Projects\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csprojResolveAssemblyReference.cache
